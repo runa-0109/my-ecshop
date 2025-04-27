@@ -17,19 +17,19 @@
 - HTML/CSS/javascript(簡単なフロントエンド)
 ## スクリーンショット
 ##ログインページ
-![ログインページ](./imags/login-page.png)
+![ログインページ](./images/login-page.png)
 ##トップページ(user)
-![トップページ](./imags/usertop-page.png)
+![トップページ](./images/usertop-page.png)
 ##商品一覧
-![商品一覧ページ](./imags/productlist-page.png)
+![商品一覧ページ](./images/productlist-page.png)
 ##商品詳細ページ
-![商品詳細ページ](./imags/productdetail-page.png)
+![商品詳細ページ](./images/productdetail-page.png)
 ##カートページ
-![カートページ](./imags/cart-page.png)
+![カートページ](./images/cart-page.png)
 ##注文確認ページ
-![注文確認ページ](./imags/order-page.png)
+![注文確認ページ](./images/order-page.png)
 ##トップページ(管理者)
-![トップページ](./imags/topadmin-page.png)
+![トップページ](./images/topadmin-page.png)
 
 ## 工夫したポイント
 - Spring Securityを使ってログイン・認証を実装
